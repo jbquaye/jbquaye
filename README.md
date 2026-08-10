@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jefferson Bliss Quaye 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eyauq01/">
+  <a href="https://www.linkedin.com/in/jbquaye/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gentbliss@gmail.com">
