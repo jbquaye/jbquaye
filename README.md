@@ -35,6 +35,6 @@ I manage financial records with **99% accuracy** by day, and by night I'm learni
 </p>
 
 ## 🎯 Mission
-*My mission is to build technology that connects Africa, one disciplined day at a time.*🌍
+My mission is to build technology that connects Africa, one disciplined day at a time.🌍
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=100&section=footer" width="100%" />
