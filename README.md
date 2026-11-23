@@ -3,7 +3,7 @@
 
 I turn messy data into clean systems. By day I manage financial records with 99% accuracy. By night I'm learning to build the software behind them with Python, SQL and back-end development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyauq01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbquaye)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gentbliss@gmail.com)
 
 ## 🚀 What I'm up to
