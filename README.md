@@ -31,7 +31,7 @@ I manage financial records with **99% accuracy** by day, and by night I'm learni
 
 ## 📊 GitHub stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jbquaye&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌍 Vision
