@@ -34,7 +34,7 @@ I manage financial records with **99% accuracy** by day, and by night I'm learni
 <img src="https://github-readme-stats.vercel.app/api?username=jbquaye&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🌍 Vision
-Building applications that close gaps in education and other key sectors across Africa.
+## 🎯 Mission
+*My mission is to build technology that connects Africa, one disciplined day at a time.*🌍
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=100&section=footer" width="100%" />
