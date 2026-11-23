@@ -1,52 +1,31 @@
-<h1 align="center">Hi there, I'm Jefferson Bliss Quaye 👋</h1>
+# Hi, I'm Jefferson 👋
+### Back-end developer in the making | Building tech for Africa 🌍
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jbquaye/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:gentbliss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+I turn messy data into clean systems. By day I manage financial records with 99% accuracy. By night I'm learning to build the software behind them with Python, SQL and back-end development.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyauq01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gentbliss@gmail.com)
 
-## 👨‍💻 About Me
+## 🚀 What I'm up to
+- 🎓 Diploma in IT at GCTU, Software Engineering at ALX
+- 🐍 Building my back-end skills in Python, SQL, Bash and Git
+- 🤖 Exploring AI and data literacy
+- 🤝 Former Program Mentor, ALX AI Career Essentials
 
-<p>
-  I'm a driven <strong>Backend Web Development</strong> learner at ALX, with a deep passion for solving real-world problems through innovative technology. My journey is fueled by a commitment to mastering new skills and building impactful applications. I believe technology holds the key to unlocking opportunities, and I am dedicated to being a part of a tech revolution in Africa.
-</p>
+## 🛠️ Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌱 My Journey & Skills
+## 🏅 Certifications
+- ALX Back-End Web Development
+- Kaggle: Intro to Programming, Python Coder
+- IBM SkillsBuild: AI Literacy, Data Literacy
+- ATF AI School (Phase 1 of 2)
 
-<p>
-  I'm currently focused on building a strong foundation in backend development. My learning journey so far has been centered around:
-</p>
+## 🌍 My vision
+Building applications that close gaps in education and other key sectors across Africa.
 
-<ul>
-  <li><strong>Bash:</strong> Mastering the command line for powerful scripting and automation.</li>
-  <li><strong>Python:</strong> Learning to use this versatile language for building robust applications.</li>
-  <li><strong>SQL:</strong> Understanding databases to efficiently store and manage data.</li>
-  <li><strong>Git:</strong> Practicing version control for collaborative projects.</li>
-</ul>
-
-<p>
-  My passion is to solve problems, and I am actively applying my knowledge to build solutions that matter.
-</p>
-
-## ✨ My Vision
-
-<p>
-  My vision extends beyond lines of code; it's about building a tech ecosystem that empowers and revolutionizes communities in Africa. I am dedicated to creating applications that bridge gaps in education and other critical sectors, ensuring a more innovative and connected future.
-</p>
-
-## 🚀 Projects
-
-<p>
-  <em>This section is currently under construction.</em>
-</p>
-<p>
-  As I progress in my studies, this is where I'll showcase my personal projects, contributions to open-source, and collaborations. Stay tuned!
-</p>
-
----
+## 📫 Let's connect
+Open to learning, collaborating and entry-level opportunities.
